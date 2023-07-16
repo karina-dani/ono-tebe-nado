@@ -63,6 +63,7 @@
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .overlay {
@@ -137,6 +138,7 @@
   font-family: Raleway, sans-serif;
   line-height: normal;
   background-color: transparent;
+  cursor: pointer;
 }
 
 .lots {
@@ -181,6 +183,7 @@
   background-color: #000;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .card_type_film {
